@@ -1,2 +1,1 @@
-# estudo-javascript
-Studying the basic levels of javascript
+# estudo-JavaScript
